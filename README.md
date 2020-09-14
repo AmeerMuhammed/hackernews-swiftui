@@ -1,4 +1,5 @@
 HackerNews app using SwiftUI
 
 Demonstration: 
-![](https://ameermuhammed.github.io/hackernews-swiftui/demo.gif)
+
+<img src="demo.gif?raw=true">
