@@ -1,5 +1,5 @@
 HackerNews app using SwiftUI
 
-Demonstration: 
+Demonstration: ▶️ 
 
 <img src="demo.gif?raw=true" height="720px">
